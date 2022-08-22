@@ -25,7 +25,7 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 
 - I joined a bootcamp **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.<a href="https://ineuron.ai/"> **Check🚀 (Not Sponsered)**</a>
 - It took me about **8 hour** to complete this project.
-- As I have done my previous 2 assignments it took me less time than previous.
+- As I have done my previous 3 assignments it took me less time than previous.
 
 ## 📌 What I Learn
 
